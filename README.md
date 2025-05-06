@@ -3,6 +3,8 @@
 # Mobile Sales Dashboard – Power BI Project
 
 Dashboard interaction[ https://github.com/neha-76830/Power-bi-project----Mobile-sales-Dashboard/blob/main/Dashboard-%20Mobile%20Sales.png ]
+![Dashboard- Mobile Sales](https://github.com/user-attachments/assets/63e88fa5-f635-49ed-aa3a-090aeb5d6a7c)
+
 
 ## Overview:
 This Power BI dashboard visualizes mobile sales data from an Excel file, focusing specifically on Mobile products. The project includes interactive visuals that allow users to filter and analyze sales data month-wise, city-wise, and brand-wise.
