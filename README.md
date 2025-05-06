@@ -2,6 +2,8 @@
 
 # Mobile Sales Dashboard – Power BI Project
 
+Dashboard interaction[ https://github.com/neha-76830/Power-bi-project----Mobile-sales-Dashboard/blob/main/Dashboard-%20Mobile%20Sales.png ]
+
 ## Overview:
 This Power BI dashboard visualizes mobile sales data from an Excel file, focusing specifically on Mobile products. The project includes interactive visuals that allow users to filter and analyze sales data month-wise, city-wise, and brand-wise.
 
@@ -37,3 +39,9 @@ This Power BI dashboard visualizes mobile sales data from an Excel file, focusin
 Open the .pbix file in Power BI Desktop. Use the slicer on the dashboard to explore the data interactively.
 
 ---
+**##Preview:**
+A short GIF is included above to show how slicers work and visuals change interactively.
+
+Dashboard Interaction [ https://github.com/neha-76830/Power-bi-project----Mobile-sales-Dashboard/blob/main/project-createinteractivedashboard%20GIF.gif ]
+
+This animated demo shows how changing the month using the slicer updates all the visuas in real-time.
