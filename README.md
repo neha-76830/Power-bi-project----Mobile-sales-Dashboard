@@ -3,6 +3,7 @@
 # Mobile Sales Dashboard – Power BI Project
 
 Dashboard interaction[ https://github.com/neha-76830/Power-bi-project----Mobile-sales-Dashboard/blob/main/Dashboard-%20Mobile%20Sales.png ]
+
 ![Dashboard- Mobile Sales](https://github.com/user-attachments/assets/63e88fa5-f635-49ed-aa3a-090aeb5d6a7c)
 
 
@@ -45,5 +46,8 @@ Open the .pbix file in Power BI Desktop. Use the slicer on the dashboard to expl
 A short GIF is included above to show how slicers work and visuals change interactively.
 
 Dashboard Interaction [ https://github.com/neha-76830/Power-bi-project----Mobile-sales-Dashboard/blob/main/project-createinteractivedashboard%20GIF.gif ]
+
+![project-createinteractivedashboard GIF](https://github.com/user-attachments/assets/e0464fe2-b676-41ae-98da-8f41af2a2f8b)
+
 
 This animated demo shows how changing the month using the slicer updates all the visuas in real-time.
